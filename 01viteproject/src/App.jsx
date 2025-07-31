@@ -1,11 +1,11 @@
-
-
+import Chai from "./Chai" 
 function App() {
-  
-
-  return (
-    <h1>Pratham Kumar</h1>
+return (
+  <>
+    <Chai/>
+    <h1>pratham</h1>
+    <p>this is para </p>
+  </>  
   )
 }
-
 export default App
